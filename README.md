@@ -2,7 +2,7 @@
 
 This is !5 days Javascript Project to enhance my Skill on JavaScript and To improve my skills on developing interactive and reak time application
 
-## Day X1: Project Description
+## Day 1: Project Description
 
 
 ## Features

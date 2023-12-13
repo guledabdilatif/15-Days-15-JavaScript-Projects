@@ -14,7 +14,7 @@ Key features of the Progress Steps.
 -progress buttons showing which button is currently active
 
 ## Demo Image.
-[demo](https://github.com/guledabdilatif/15-Days-JavaScript-Projects/assets/115420472/3acdc621-e2a3-4610-aeda-ae44ef281cb3)
+![demo](https://github.com/guledabdilatif/15-Days-JavaScript-Projects/assets/115420472/3b7bfa44-be15-4746-b79f-c84532c0f918)
 
 
 

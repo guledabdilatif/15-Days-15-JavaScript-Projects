@@ -16,9 +16,13 @@ Key features of the Progress Steps.
 ## Demo Image.
 ![demo](https://github.com/guledabdilatif/15-Days-JavaScript-Projects/assets/115420472/3b7bfa44-be15-4746-b79f-c84532c0f918)
 
+
+## Day 2: Expanding card
+This is a project that showcase the on how element to interfere with the current element dimension while other element remain constant.
+
 ## Features
 
-Key features of th eExpanding Cards.
+Key features of the Expanding Cards.
 #### The card expands when clicked.
 
 ## Demo Image.

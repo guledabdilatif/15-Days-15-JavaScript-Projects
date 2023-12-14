@@ -18,7 +18,7 @@ Key features of the Progress Steps.
 
 
 ## Day 2: Expanding card
-This is a project that showcase the on how element to interfere with the current element dimension while other element remain constant.
+This is a project that showcase the on how to interfere with the current element dimension while other element remain constant.
 
 ## Features
 
@@ -27,5 +27,18 @@ Key features of the Expanding Cards.
 
 ## Demo Image.
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/52785df5-728f-4343-af12-102c463e805e)
+
+## Day 3: Expanding Search Box
+This is a project that showcase to control the width of search box by clicking on search icon
+
+## Features
+
+Key features of the Expanding Search Box.
+#### The search box expands whenever search icon is clicked.
+#### The search box returns to its original position whenever also search icon is clicked.
+
+## Demo Image.
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/49512f29-424b-45c0-a90d-3167133a8622)
+ 
 
 

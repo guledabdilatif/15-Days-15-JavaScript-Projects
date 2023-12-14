@@ -1,0 +1,56 @@
+:root {
+    --primary-color: #5F4BB6;
+    --secondary-color: #26F0F1;
+    --text-color: #202A25;
+
+}
+
+body {
+    background: var(--secondary-color);
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+}
+
+input {
+    padding: 20px 40px;
+    border: 0;
+    outline: none;
+    border-radius: 40px;
+    transition: 0.5s;
+    max-width: 60%;
+    font-size: 24px;
+
+}
+
+.width {
+    width: 500px
+}
+
+button {
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: absolute;
+    left: 56%;
+}
+
+button img {
+    width: 50px;
+    height: 50px;
+    margin-top: 11px;
+}
+.btn-width{
+    right: 70px;
+}

@@ -1,0 +1,52 @@
+:root {
+    --primary-color: #5F4BB6;
+    --secondary-color: #26F0F1;
+    --text-color: #202A25;
+
+}
+
+body {
+
+    background: var(--secondary-color);
+}
+h1{
+    text-align: center;
+}
+
+.cards-container {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card{
+    background-image: url("images/img1.webp");
+    width: 13vh;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    margin: 0 20px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.card:nth-child(2){
+    background-image: url("images/img2.webp");
+}
+.card:nth-child(3){
+    background-image: url("images/img3.webp");
+}
+.card:nth-child(4){
+    background-image: url("images/img4.webp");
+}
+.card:nth-child(5){
+    background-image: url("images/img5.webp");
+}
+.card.active{
+    width: 70vh;
+    cursor: pointer;
+
+}

@@ -15,8 +15,14 @@ Key features of the Progress Steps.
 
 ## Demo Image.
 
-![progress step image](images/demo.png)
+## Day 2: Expanding Cards
+This is a project that showcase how width of elemnt can be manipulated with JavaScript while other element remain constant.
 
 
+## Features
 
+Key features of th eExpanding Cards.
+-The card expands when clicked.
+
+## Demo Image.
 

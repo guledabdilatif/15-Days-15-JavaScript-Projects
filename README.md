@@ -14,9 +14,9 @@ Key features of the Progress Steps.
 -progress buttons showing which button is currently active
 
 ## Demo Image.
+![demo](https://github.com/guledabdilatif/15-Days-JavaScript-Projects/assets/115420472/3b7bfa44-be15-4746-b79f-c84532c0f918)
 
-## Day 2: Expanding Cards
-This is a project that showcase how width of elemnt can be manipulated with JavaScript while other element remain constant.
+![progress step image](images/demo.png)
 
 
 ## Features

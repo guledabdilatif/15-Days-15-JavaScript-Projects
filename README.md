@@ -9,20 +9,17 @@ This is a project that showcase the user progess by click on previous and next b
 ## Features
 
 Key features of the Progress Steps.
--Previous button
--next button
--progress buttons showing which button is currently active
+#### Previous button
+#### next button
+#### progress buttons showing which button is currently active
 
 ## Demo Image.
 ![demo](https://github.com/guledabdilatif/15-Days-JavaScript-Projects/assets/115420472/3b7bfa44-be15-4746-b79f-c84532c0f918)
 
-![progress step image](images/demo.png)
-
-
 ## Features
 
 Key features of th eExpanding Cards.
--The card expands when clicked.
+#### The card expands when clicked.
 
 ## Demo Image.
 

@@ -22,4 +22,6 @@ Key features of th eExpanding Cards.
 #### The card expands when clicked.
 
 ## Demo Image.
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/52785df5-728f-4343-af12-102c463e805e)
+
 

@@ -41,7 +41,7 @@ Key features of the Expanding Search Box.
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/49512f29-424b-45c0-a90d-3167133a8622)
 
 ## Day 4: Blurry loading
-In this project, we're going to be building a blurry loading page or loading image, so if I come to this page here, you'll see that the image starts blurred and we also start with, you know, zero percent and then that goes up to 100 percent and the image comes into focus. So you could use this to load just about anything. We're just doing a blur effect on the image. But you could load in your site. You could have any other elements in the DOM load in that specific amount of time from when we go to zero to 100 and we'll have to map different number ranges to the zero to 100 load. For instance, the image blur is going to be 30 pixels when it starts and it's going to go down to zero as we go from zero to 100. And there's a stack overflow function that we're going to use to help us do that, to help us map one number range to another.
+In this project, i will be going to be building a blurry loading page or loading image, so if I come to this page here, you'll see that the image starts blurred and we also start with, you know, zero percent and then that goes up to 100 percent and the image comes into focus. So you could use this to load just about anything. We're just doing a blur effect on the image. But you could load in your site. You could have any other elements in the DOM load in that specific amount of time from when we go to zero to 100 and we'll have to map different number ranges to the zero to 100 load. For instance, the image blur is going to be 30 pixels when it starts and it's going to go down to zero as we go from zero to 100. And there's a stack overflow function that we're going to use to help us do that, to help us map one number range to another.
 
 ## Features
 
@@ -51,6 +51,17 @@ Key features of Blurry loading.
 
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/3da1cded-feb8-4fbc-9b1f-fdc1a91af2c7)
+## Day 5: Dad joke Generator
+In this project, i am going to implement Dad joke Generator using API. it will have a generate button that when clicked generate a random Jokes from API end point.
+
+## Features
+
+Key features of Dad joke Generator.
+#### Generate button.
+#### The joke itself.
+
+## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/9567fa93-1f0b-451c-a1b4-c3866d8b297b)
 
  
 

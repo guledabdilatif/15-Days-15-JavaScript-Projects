@@ -1,0 +1,42 @@
+:root {
+    --primary-color: #5F4BB6;
+    --secondary-color: #26F0F1;
+    --text-color: #202A25;
+
+}
+
+body {
+    background: var(--secondary-color);
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+.card{
+    background: #fff;
+    width: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    text-align: center;
+    position: relative;
+    border-radius: 4px;
+    box-shadow: 1px 1px 8px var(--text-color);
+}
+button{
+    background: var(--primary-color);
+    padding: 10px 30px;
+    outline: none;
+    width: 10rem;
+    text-align: center;
+    border: 0;
+    cursor: pointer;
+    border-radius: 4px;
+    color: #fff;
+    margin-left: 90px;
+    font-size: 22px;
+    }

@@ -1,0 +1,33 @@
+:root {
+    --primary-color: #5F4BB6;
+    --secondary-color: #26F0F1;
+    --text-color: #202A25;
+
+}
+
+body {
+    background: var(--secondary-color);
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.bg {
+    background: url(./img1.webp) no-repeat center center/cover;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    width: calc(100vw + 60px);
+    height: calc(100vh + 60px);
+    filter: blur(0px);
+}
+.loading-text{
+    font-size: 50px;
+    color: white;
+   z-index: 3;
+   font-weight: bload;
+}

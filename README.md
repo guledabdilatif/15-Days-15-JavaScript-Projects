@@ -62,6 +62,17 @@ Key features of Dad joke Generator.
 
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/9567fa93-1f0b-451c-a1b4-c3866d8b297b)
+## Day 6: Auto Typing Text
+In this project, i am going to implement Auto Typing Text using JS Library called Typed Js. it will have a text that changes after every 100ms.
+
+## Features
+
+Key features of Auto Typing Text.
+#### Changing of text after every 100ms.
+
+
+## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/02e18361-50eb-4059-9d95-01679c01d27e)
 
  
 

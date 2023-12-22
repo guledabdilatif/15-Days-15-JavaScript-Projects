@@ -74,6 +74,18 @@ Key features of Auto Typing Text.
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/02e18361-50eb-4059-9d95-01679c01d27e)
 
+## Day 7: Accordion
+In this project, i am going to implement Accordion. This is used mostly in websites for FAQS section where a user click a question and opens the answer. when another question is click it closes the fisrt ans opens its answer
+
+## Features
+
+Key features of Auto Typing Text.
+#### Toggle for question.
+
+
+## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/d36f7252-ff21-41ed-a573-2e6b533c48f9)
+
  
 
 

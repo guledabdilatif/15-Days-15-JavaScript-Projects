@@ -85,6 +85,18 @@ Key features of Auto Typing Text.
 
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/d36f7252-ff21-41ed-a573-2e6b533c48f9)
+## Day 7: Password Strength Checker
+In this project, i am going to implement Password Strength Checker. if the the number of values are less than 4 values it will show password is weak and red border.  if the the number of values are less than 8 and greater than 4 values it will show password is medium and yellow border. if the the number of values are greater than 4 values it will show password is strong and green border
+
+## Features
+
+Key features of Auto Typing Text.
+#### Strong, weak and weak password based on the number of values.
+
+
+## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/7db4ff89-f254-4abb-9822-d93b9b7aa53f)
+
 
  
 

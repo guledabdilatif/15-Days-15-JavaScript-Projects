@@ -69,3 +69,15 @@ nav ul li a{
     transform: rotate(-12deg);
     transition: 0.5s ease;
 }
+.controller{
+    background-image: url(menu.png);
+    width: 50%;
+    background-color: var(--primary-color);
+    height: 50%;
+    background-size: cover;
+    
+    
+}
+.change-bg-img{
+    background-image: url(close.png);
+}

@@ -102,10 +102,11 @@ In this project, i am going to implement Rotating Navigation. it will have a con
 ## Features
 
 Key features of Rotating Navigation.
-#### Rotates the body when Controller is clicks
+#### Rotates the header when Controller is clicked
 
 
 ## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/9c0ecafb-03d6-4f55-a159-082a4aaedd5f)
 
 
  

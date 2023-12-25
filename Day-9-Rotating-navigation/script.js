@@ -5,7 +5,7 @@ const navigation = document.querySelector(".navigation")
 
 
 // Styling with css
-controller.style.background = "red"
+
 controller.style.width = "60px"
 controller.style.height = "60px"
 controller.style.position = "absolute"
@@ -17,5 +17,6 @@ controller.style.cursor = "pointer";
 controller.addEventListener("click", ()=>{
 header.classList.toggle("open-nav");
 navigation.classList.toggle("close-nav");
+controller.classList.toggle("change-bg-img")
 
 })

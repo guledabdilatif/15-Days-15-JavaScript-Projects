@@ -107,6 +107,20 @@ Key features of Rotating Navigation.
 
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/9c0ecafb-03d6-4f55-a159-082a4aaedd5f)
+## Day 10: Vertical sliders
+In this project, i am going to implement Vertical sliders. it will have ip and down arrow than whenever you click them it display the content depenging on the wheter you clickedup or arrow.
+
+## Features
+
+Key features of Rotating Navigation.
+#### up arrow
+#### down arrow
+#### reviews contents
+
+
+## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/082fd386-29cd-4806-b847-4cfa47ac4f40)
+
 
 
  

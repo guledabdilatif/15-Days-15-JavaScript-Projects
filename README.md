@@ -134,6 +134,21 @@ Key features of Display Time.
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/4ac842ab-991e-430f-8aff-635aa0c2ce25)
 
+## Day 12: To Do App.
+In this project, i am going to implement To Do App. The To Do App will have an Add button to task and input box to write the task. once task is added it will, the task will have an option to be deleted, to be marked complete(this will be shown on roght side of the task represented by radio button which can be toggled). It also have localStorage wihiv stores the task in the local browser.
+
+## Features
+
+Key features of Display Time.
+#### Add button
+#### input button
+#### Task list
+#### LocalStorage
+
+## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/d972c817-e8aa-424a-910c-f809e67a807a)
+
+
 
 
 

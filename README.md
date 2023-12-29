@@ -121,6 +121,20 @@ Key features of Rotating Navigation.
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/082fd386-29cd-4806-b847-4cfa47ac4f40)
 
+## Day 11: Display Time.
+In this project, i am going to implement Display time. It will have Time in hours, minutes and Seconds.
+
+## Features
+
+Key features of Display Time.
+#### Time in Minutes
+#### Time in Seconds
+#### Time in Hours
+
+## UI
+![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/4ac842ab-991e-430f-8aff-635aa0c2ce25)
+
+
 
 
  

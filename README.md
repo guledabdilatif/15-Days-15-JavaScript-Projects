@@ -160,6 +160,20 @@ Key features of Display Time.
 ## UI
 ![demo](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/646fa0ea-c3e3-4fb6-83ad-cf20b98fbe7a)
 
+## Day 14: Tab Bar Navigation.
+In this project, i am going to implement Tab Bar Navigation. This kind of navigation are mostly seen in mobile that helps in navigating from one page to another witghout refreshing. The Tab Bar Navigation had bottom navigation that controls the flow of body. in this project by clcking on the bottom tabs, it will change images of the body one by one.
+
+## Features
+
+Key features of Tab Bar Navigation.
+#### Bottom Tabs
+#### Body images.
+
+## UI
+![UI](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/7a2c2c37-ad92-4e18-bd2e-a54561a2a2f5)
+
+
+
 
 
 

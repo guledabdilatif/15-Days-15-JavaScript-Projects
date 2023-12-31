@@ -1,0 +1,65 @@
+:root {
+    --primary-color: #5F4BB6;
+    --secondary-color: #26F0F1;
+    --text-color: #202A25;
+}
+
+body {
+    background: var(--secondary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    flex-direction: column;
+    position: relative;
+    height: 100vh;
+}
+
+.tab-container {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    flex-direction: column;
+
+}
+
+.tab-body {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.tab-body img {
+    width: 300px;
+    height: 400px;
+    margin: 1rem;
+    display: none;
+    border-radius: 10px 10px 0 0;
+    transition: 0.5s;
+}
+
+.tab-body .active {
+    display: block;
+    
+}
+
+.tab-bottom-nav img {
+    width: 40px;
+}
+.tab-bottom-nav {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    cursor: pointer;
+    background: white;
+    padding: 10px 2px;
+    margin-top: -30px;
+    border-radius: 10px;
+}
+.activeTab{
+    border-radius: 50px;
+    padding: 4px;
+    background-color: var(--primary-color);
+}

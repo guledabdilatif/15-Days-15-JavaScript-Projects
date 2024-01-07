@@ -171,6 +171,18 @@ Key features of Tab Bar Navigation.
 
 ## UI
 ![UI](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/7a2c2c37-ad92-4e18-bd2e-a54561a2a2f5)
+## Day 15: preloader.
+In this project, i am going to implement preloader. This preloader loads before the content is displayed to the user. It makes the user wait without making the user get irritatted because once it completes loading the content of the website is displayed. For this landing page i have created it does not have alot of content so preloader will disappear quickly but once you refresh the page you will be able to notice.
+
+## Features
+
+Key features of Tab Bar Navigation.
+#### loading animation
+
+
+## UI
+![UI](https://github.com/guledabdilatif/15-Days-15-JavaScript-Projects/assets/115420472/1ddca331-af4c-4ac4-aeb9-668f06350cff)
+
 
 
 
